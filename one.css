@@ -2,6 +2,7 @@ body{
     background-image: url(mount.jpg);
     background-repeat: repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 .container{
     width: 80%;
@@ -13,4 +14,19 @@ body{
     margin-right: auto;
     width: auto;
     text-align: center;
+
 }
+
+.tab button {
+    background-color: inherit;
+    float: center;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+  }
+  .tab button:hover {
+    background-color:yellow;
+  }
+  
