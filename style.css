@@ -27,6 +27,7 @@ body {
     
     border-radius: 1em;
     border-width: 0.1em;
+    
 
 }
 .small {
@@ -62,6 +63,10 @@ body {
 
 table,th,td{
         border: 1px solid black ;
+        font-size: large;
+        padding-left: 3em;
+        padding-right: 3em;
+        margin-bottom: 2em;
 }
 
 
