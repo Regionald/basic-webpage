@@ -10,13 +10,13 @@ body {
 
 
 .container{
-    width: 90%;
+    width: 80%;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
 }
 .outer{
-    width:90%;
+    width:85%;
     margin-left: auto;
     margin-right: auto;
 }
